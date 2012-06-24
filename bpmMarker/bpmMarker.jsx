@@ -82,10 +82,8 @@
     var INPUT_TEXT_DIMENSIONS = [0, 0, 60, 15];
 
     if (thisObj instanceof Panel){
-      alert(thisObj);
       palette = thisObj;
     } else {
-      alert("not Panel!");
       palette = new Window("palette", "BPMMarker", undefined, {resizeable: true});
     }
     palette.margins = 15;
