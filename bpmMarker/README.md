@@ -7,7 +7,7 @@ BPM(1分ごとの拍数)とカウントする数を入力すると、その間�
 
 # ダウンロード方法
 
-[ここ](https://raw.github.com/lian-wired/AE-Scripts/master/bpmMarker/bpmMarker.jss)を右クリックし「名前をつけてリンク先を保存」するか、或いは右上方にあるDownloadsのリンク先からフォルダ毎ダウンロードして下さい。
+[ここ](https://raw.github.com/lian-wired/AE-Scripts/master/bpmMarker/bpmMarker.jsx)を右クリックし「名前をつけてリンク先を保存」するか、或いは右上方にあるDownloadsのリンク先からフォルダ毎ダウンロードして下さい。
 
 # 使い方
 
